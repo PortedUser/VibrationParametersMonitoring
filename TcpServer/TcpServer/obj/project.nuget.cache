@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/kRm3h7yHp0OV1U9SA5i/KvN+Z6B9H76+thzqWmxdAL/a+Jf7chZD9g9qrwMyaJxXhZrLhyv8EWaWOyu/+ENCw==",
+  "dgSpecHash": "C3t7UH/mKVmU0O62rp464tj5WZjna3gYzRDjkgLfJghsfB5CVTPt5fBN3RhJLCwWTKgNCqgToYv2Y3OI8i8nMw==",
   "success": true,
-  "projectFilePath": "D:\\Repos\\TcpServer\\TcpServer\\TcpServer.csproj",
+  "projectFilePath": "D:\\Repos\\VibrationParametersMonitoring\\VibrationParametersMonitoring\\TcpServer\\TcpServer\\TcpServer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
