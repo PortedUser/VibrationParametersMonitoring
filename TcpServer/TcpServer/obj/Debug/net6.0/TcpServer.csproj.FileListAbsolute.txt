@@ -1,0 +1,14 @@
+D:\Repos\TcpServer\TcpServer\obj\Debug\net6.0\TcpServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\TcpServer\TcpServer\obj\Debug\net6.0\TcpServer.AssemblyInfoInputs.cache
+D:\Repos\TcpServer\TcpServer\obj\Debug\net6.0\TcpServer.AssemblyInfo.cs
+D:\Repos\TcpServer\TcpServer\obj\Debug\net6.0\TcpServer.csproj.CoreCompileInputs.cache
+D:\Repos\TcpServer\TcpServer\bin\Debug\net6.0\TcpServer.exe
+D:\Repos\TcpServer\TcpServer\bin\Debug\net6.0\TcpServer.deps.json
+D:\Repos\TcpServer\TcpServer\bin\Debug\net6.0\TcpServer.runtimeconfig.json
+D:\Repos\TcpServer\TcpServer\bin\Debug\net6.0\TcpServer.dll
+D:\Repos\TcpServer\TcpServer\bin\Debug\net6.0\TcpServer.pdb
+D:\Repos\TcpServer\TcpServer\obj\Debug\net6.0\TcpServer.dll
+D:\Repos\TcpServer\TcpServer\obj\Debug\net6.0\refint\TcpServer.dll
+D:\Repos\TcpServer\TcpServer\obj\Debug\net6.0\TcpServer.pdb
+D:\Repos\TcpServer\TcpServer\obj\Debug\net6.0\TcpServer.genruntimeconfig.cache
+D:\Repos\TcpServer\TcpServer\obj\Debug\net6.0\ref\TcpServer.dll
