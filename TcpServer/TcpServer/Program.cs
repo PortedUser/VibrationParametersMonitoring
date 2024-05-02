@@ -37,6 +37,22 @@ async Task ProcessClientAsync(TcpClient tcpClient)
     while (true)
     {
         count++;
+
+        try
+        {
+            var bt = await stream.ReadAsync(new byte[1]);
+
+            if (bt != 1)
+            {
+                break;
+            }
+        }
+        catch (Exception)
+        {
+
+            break;
+        }
+
         try
         {
             await stream.WriteAsync(Encoding.UTF8.GetBytes(GetCorrectString(count, 4)));
@@ -44,9 +60,9 @@ async Task ProcessClientAsync(TcpClient tcpClient)
         }
         catch (Exception)
         {
-
             break;
         }
+
         if (count >=99)
         {
             count = 0;
@@ -54,6 +70,8 @@ async Task ProcessClientAsync(TcpClient tcpClient)
     }
     tcpClient.Close();
 }
+
+
 
 string GetCorrectString(int number, int length)
 {
