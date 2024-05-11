@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Repos\\VibrationParametersMonitoring\\VibrationParametersMonitoring\\TcpServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C77ADA85-566F-4D68-8C82-FA7290504A85}|TcpServer\\TcpServer.csproj|d:\\repos\\vibrationparametersmonitoring\\vibrationparametersmonitoring\\tcpserver\\tcpserver\\sensorsdatum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C77ADA85-566F-4D68-8C82-FA7290504A85}|TcpServer\\TcpServer.csproj|solutionrelative:tcpserver\\sensorsdatum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C77ADA85-566F-4D68-8C82-FA7290504A85}|TcpServer\\TcpServer.csproj|d:\\repos\\vibrationparametersmonitoring\\vibrationparametersmonitoring\\tcpserver\\tcpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77ADA85-566F-4D68-8C82-FA7290504A85}|TcpServer\\TcpServer.csproj|solutionrelative:tcpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C77ADA85-566F-4D68-8C82-FA7290504A85}|TcpServer\\TcpServer.csproj|d:\\repos\\vibrationparametersmonitoring\\vibrationparametersmonitoring\\tcpserver\\tcpserver\\sensorsdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C77ADA85-566F-4D68-8C82-FA7290504A85}|TcpServer\\TcpServer.csproj|solutionrelative:tcpserver\\sensorsdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C77ADA85-566F-4D68-8C82-FA7290504A85}|TcpServer\\TcpServer.csproj|d:\\repos\\vibrationparametersmonitoring\\vibrationparametersmonitoring\\tcpserver\\tcpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C77ADA85-566F-4D68-8C82-FA7290504A85}|TcpServer\\TcpServer.csproj|solutionrelative:tcpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C77ADA85-566F-4D68-8C82-FA7290504A85}|TcpServer\\TcpServer.csproj|d:\\repos\\vibrationparametersmonitoring\\vibrationparametersmonitoring\\tcpserver\\tcpserver\\sensorsdatum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77ADA85-566F-4D68-8C82-FA7290504A85}|TcpServer\\TcpServer.csproj|solutionrelative:tcpserver\\sensorsdatum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C77ADA85-566F-4D68-8C82-FA7290504A85}|TcpServer\\TcpServer.csproj|d:\\repos\\vibrationparametersmonitoring\\vibrationparametersmonitoring\\tcpserver\\tcpserver\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,12 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -42,18 +38,17 @@
               "RelativeToolTip": "TcpServer\\Sensor.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T08:22:39.473Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T08:22:39.473Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "SensorsDatum.cs",
               "DocumentMoniker": "D:\\Repos\\VibrationParametersMonitoring\\VibrationParametersMonitoring\\TcpServer\\TcpServer\\SensorsDatum.cs",
               "RelativeDocumentMoniker": "TcpServer\\SensorsDatum.cs",
               "ToolTip": "D:\\Repos\\VibrationParametersMonitoring\\VibrationParametersMonitoring\\TcpServer\\TcpServer\\SensorsDatum.cs",
               "RelativeToolTip": "TcpServer\\SensorsDatum.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAIAywDkAAAAlAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAtwDMAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-06T08:22:38.321Z",
               "EditorCaption": ""
@@ -73,16 +68,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Repos\\VibrationParametersMonitoring\\VibrationParametersMonitoring\\TcpServer\\TcpServer\\Program.cs",
               "RelativeDocumentMoniker": "TcpServer\\Program.cs",
               "ToolTip": "D:\\Repos\\VibrationParametersMonitoring\\VibrationParametersMonitoring\\TcpServer\\TcpServer\\Program.cs",
               "RelativeToolTip": "TcpServer\\Program.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAewDkAAAASAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-06T06:13:42.569Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

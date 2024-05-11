@@ -14,7 +14,7 @@ namespace TcpServer
         public Guid SensorUuid { get; private set; }
         public DateTime StartTime { get; private set; }
         public DateTime? EndTime { get; private set; }
-        public int CountPoints { get; set; }
+        public int CountPoints { get;  set; }
         public int[] ListPoints { get; private set; } = null!;
 
         public SensorsDatum() {}
@@ -49,13 +49,14 @@ namespace TcpServer
             EndTime = DateTime.Now;
             filterSignal();
             Add(-100);
+            
         }
 
         private void filterSignal()
         {
             if (_m == 0 || _w ==0)
             {
-                SetFilterParameter(10, 20);
+                SetFilterParameter(10, 30);
             }
             var res = new List<int>();
             var M = _m;
