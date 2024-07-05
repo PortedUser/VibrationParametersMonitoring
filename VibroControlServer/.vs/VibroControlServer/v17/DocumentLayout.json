@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repos\\VibroControlServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5EDF398-1808-4F4E-A534-D21BA482F70D}|VibroControlServer\\VibroControlServer.csproj|d:\\repos\\vibrocontrolserver\\vibrocontrolserver\\models\\requstmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5EDF398-1808-4F4E-A534-D21BA482F70D}|VibroControlServer\\VibroControlServer.csproj|solutionrelative:vibrocontrolserver\\models\\requstmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5EDF398-1808-4F4E-A534-D21BA482F70D}|VibroControlServer\\VibroControlServer.csproj|d:\\repos\\vibrocontrolserver\\vibrocontrolserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5EDF398-1808-4F4E-A534-D21BA482F70D}|VibroControlServer\\VibroControlServer.csproj|solutionrelative:vibrocontrolserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5EDF398-1808-4F4E-A534-D21BA482F70D}|VibroControlServer\\VibroControlServer.csproj|d:\\repos\\vibrocontrolserver\\vibrocontrolserver\\models\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5EDF398-1808-4F4E-A534-D21BA482F70D}|VibroControlServer\\VibroControlServer.csproj|solutionrelative:vibrocontrolserver\\models\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5EDF398-1808-4F4E-A534-D21BA482F70D}|VibroControlServer\\VibroControlServer.csproj|d:\\repos\\vibrocontrolserver\\vibrocontrolserver\\models\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5EDF398-1808-4F4E-A534-D21BA482F70D}|VibroControlServer\\VibroControlServer.csproj|solutionrelative:vibrocontrolserver\\models\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5EDF398-1808-4F4E-A534-D21BA482F70D}|VibroControlServer\\VibroControlServer.csproj|d:\\repos\\vibrocontrolserver\\vibrocontrolserver\\models\\vibrationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5EDF398-1808-4F4E-A534-D21BA482F70D}|VibroControlServer\\VibroControlServer.csproj|solutionrelative:vibrocontrolserver\\models\\vibrationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5EDF398-1808-4F4E-A534-D21BA482F70D}|VibroControlServer\\VibroControlServer.csproj|d:\\repos\\vibrocontrolserver\\vibrocontrolserver\\models\\dataconnectors\\dataconnectors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5EDF398-1808-4F4E-A534-D21BA482F70D}|VibroControlServer\\VibroControlServer.csproj|solutionrelative:vibrocontrolserver\\models\\dataconnectors\\dataconnectors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5EDF398-1808-4F4E-A534-D21BA482F70D}|VibroControlServer\\VibroControlServer.csproj|d:\\repos\\vibrocontrolserver\\vibrocontrolserver\\sensor_datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5EDF398-1808-4F4E-A534-D21BA482F70D}|VibroControlServer\\VibroControlServer.csproj|solutionrelative:vibrocontrolserver\\sensor_datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5EDF398-1808-4F4E-A534-D21BA482F70D}|VibroControlServer\\VibroControlServer.csproj|d:\\repos\\vibrocontrolserver\\vibrocontrolserver\\vibrocontrolserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C5EDF398-1808-4F4E-A534-D21BA482F70D}|VibroControlServer\\VibroControlServer.csproj|solutionrelative:vibrocontrolserver\\vibrocontrolserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RequstManager.cs",
+              "DocumentMoniker": "D:\\Repos\\VibroControlServer\\VibroControlServer\\Models\\RequstManager.cs",
+              "RelativeDocumentMoniker": "VibroControlServer\\Models\\RequstManager.cs",
+              "ToolTip": "D:\\Repos\\VibroControlServer\\VibroControlServer\\Models\\RequstManager.cs",
+              "RelativeToolTip": "VibroControlServer\\Models\\RequstManager.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAewMAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T03:09:58.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VibrationData.cs",
+              "DocumentMoniker": "D:\\Repos\\VibroControlServer\\VibroControlServer\\Models\\VibrationData.cs",
+              "RelativeDocumentMoniker": "VibroControlServer\\Models\\VibrationData.cs",
+              "ToolTip": "D:\\Repos\\VibroControlServer\\VibroControlServer\\Models\\VibrationData.cs",
+              "RelativeToolTip": "VibroControlServer\\Models\\VibrationData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T13:50:40.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Repos\\VibroControlServer\\VibroControlServer\\Program.cs",
+              "RelativeDocumentMoniker": "VibroControlServer\\Program.cs",
+              "ToolTip": "D:\\Repos\\VibroControlServer\\VibroControlServer\\Program.cs",
+              "RelativeToolTip": "VibroControlServer\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:36:47.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataConnectors.cs",
+              "DocumentMoniker": "D:\\Repos\\VibroControlServer\\VibroControlServer\\Models\\DataConnectors\\DataConnectors.cs",
+              "RelativeDocumentMoniker": "VibroControlServer\\Models\\DataConnectors\\DataConnectors.cs",
+              "ToolTip": "D:\\Repos\\VibroControlServer\\VibroControlServer\\Models\\DataConnectors\\DataConnectors.cs",
+              "RelativeToolTip": "VibroControlServer\\Models\\DataConnectors\\DataConnectors.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAswEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T09:47:00.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "D:\\Repos\\VibroControlServer\\VibroControlServer\\Models\\Connection.cs",
+              "RelativeDocumentMoniker": "VibroControlServer\\Models\\Connection.cs",
+              "ToolTip": "D:\\Repos\\VibroControlServer\\VibroControlServer\\Models\\Connection.cs",
+              "RelativeToolTip": "VibroControlServer\\Models\\Connection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T03:07:33.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sensor.cs",
+              "DocumentMoniker": "D:\\Repos\\VibroControlServer\\VibroControlServer\\Models\\Sensor.cs",
+              "RelativeDocumentMoniker": "VibroControlServer\\Models\\Sensor.cs",
+              "ToolTip": "D:\\Repos\\VibroControlServer\\VibroControlServer\\Models\\Sensor.cs",
+              "RelativeToolTip": "VibroControlServer\\Models\\Sensor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T03:07:30.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "sensor_dataContext.cs",
+              "DocumentMoniker": "D:\\Repos\\VibroControlServer\\VibroControlServer\\sensor_dataContext.cs",
+              "RelativeDocumentMoniker": "VibroControlServer\\sensor_dataContext.cs",
+              "ToolTip": "D:\\Repos\\VibroControlServer\\VibroControlServer\\sensor_dataContext.cs",
+              "RelativeToolTip": "VibroControlServer\\sensor_dataContext.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAswFkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T03:06:53.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VibroControlServer.csproj",
+              "DocumentMoniker": "D:\\Repos\\VibroControlServer\\VibroControlServer\\VibroControlServer.csproj",
+              "RelativeDocumentMoniker": "VibroControlServer\\VibroControlServer.csproj",
+              "ToolTip": "D:\\Repos\\VibroControlServer\\VibroControlServer\\VibroControlServer.csproj",
+              "RelativeToolTip": "VibroControlServer\\VibroControlServer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-12T03:01:15.813Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
